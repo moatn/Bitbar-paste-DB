@@ -14,7 +14,7 @@ brew install xbar
 - Next, make a symlink to add the `paste_db.sh` script to the xbar plugin directory.
 
 ```bash
-ln -s ${HOME}/tools/secter/xbar/paste_db.sh "${HOME}/Library/Application Support/xbar/plugins/"
+ln -s ${HOME}/Bitbar-paste-DB/paste_db.sh "${HOME}/Library/Application Support/xbar/plugins/"
 ```
 
 - Change all the paths within the scripts accordingly.
