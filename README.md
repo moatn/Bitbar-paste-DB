@@ -1,6 +1,7 @@
-# Bitbare-paste-db 
+# Bitbar-paste-db 
 
 - Bitbar-paste-db is collection of scripts that makes it possible to simple copy-paste text into the foremost window. It uses Applescript combined with shell scripts and Xbar.
+- It used to be bitbar, but is called Xbar now. 
 
 ## Installation
 
