@@ -1,0 +1,12 @@
+\begin{table}[h!]
+    \arrayrulecolor{white}
+        \begin{longtable}{p{16cm}}
+            \hline
+            \rowcolor[gray]{0.8}
+            Row een \\
+            \hline
+            row twee \\
+            \hline
+        \end{longtable}
+    \arrayrulecolor{black}
+\end{table}
